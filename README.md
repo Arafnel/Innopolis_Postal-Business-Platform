@@ -14,7 +14,7 @@
 
 | Путь | Содержимое |
 |---|---|
-| `index.html` | Сайт курса (публикуется через GitHub Pages) |
+| `[index.html](https://okhovrin.github.io/Innopolis_Postal-Business-Platform/#lectures)` | Сайт курса (публикуется через GitHub Pages) |
 | [`labs/lab-1/`](labs/lab-1/README.md) | ЛР-1 «Продуктовая логика и сегментация» — условие |
 | [`labs/lab-2/`](labs/lab-2/README.md) | ЛР-2 «Архитектура и данные» — условие |
 | [`labs/lab-3/`](labs/lab-3/README.md) | ЛР-3 «API и интеграции» — условие |
